@@ -1,8 +1,11 @@
 # Hi there 👋
 ### My name is Matías Pontoriero, and I am an independent full-stack web developer who enjoys coding all types of projects and ideas.
-### My main frameworks are Django and Next.JS, and I also worked on Unity with C# in the past
+### My main frameworks are Django and Next.JS, and I also worked on Unity with C# in the past.
+- 📌 I am from Buenos Aires, Argentina, but I currently live in Madrid, Spain
 - 🔭 I’m currently working on some private projects, which I hope I will be able to share soon
-- 📫 How to reach me: you can mail me at matipontoriero@gmail.com
+- 📫 How to reach me: you can mail me at matipontoriero@gmail.com, or add me on Linked-In
+- 🎓 I am currently studying my 3rd year of economics at UCM, Madrid
+- 📚 Bachellors graduated at CEM (Colegio Europeo de Madrid)
 
 <!--
 **matiaspontoriero/matiaspontoriero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
