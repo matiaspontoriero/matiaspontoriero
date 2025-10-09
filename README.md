@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on some private projects, which I hope I will be able to share soon
 - 🎓 I am currently studying my 3rd year of economics at UCM, Madrid
 - 📚 Bachellors graduated at CEM (Colegio Europeo de Madrid)
-- 📫 How to reach me: you can mail me at matipontoriero@gmail.com, or add me on Linked-In **https://www.linkedin.com/in/matias-pontoriero/**
+- 📫 How to reach me: you can mail me at matipontoriero@gmail.com, or through **https://www.linkedin.com/in/matias-pontoriero/**.
 
 <!--
 **matiaspontoriero/matiaspontoriero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
