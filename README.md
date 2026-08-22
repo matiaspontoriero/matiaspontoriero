@@ -3,7 +3,7 @@
 ### My main frameworks are Django and Next.JS, and I also worked on Unity with C# in the past.
 - 📌 I am from Buenos Aires, Argentina, but I currently live in Madrid, Spain
 - 🔭 I’m currently working on some private projects, which I hope I will be able to share soon
-- 🎓 I am currently studying my 3rd year of economics at UCM, Madrid
+- 🎓 I am currently studying my 4th (and last) year of economics at UCM, Madrid
 - 📚 Bachellors graduated at CEM (Colegio Europeo de Madrid)
 - 📫 How to reach me: you can mail me at matipontoriero@gmail.com, or through **https://www.linkedin.com/in/matias-pontoriero/**.
 
